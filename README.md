@@ -20,17 +20,6 @@ I'm a Software Engineering graduate (BS, CGPA 3.94/4.00, Bronze Medalist, Class 
 
 ---
 
-### Main Skills
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,cs,php,html,css,figma,react,nextjs,angular,nodejs,express" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flask,mongodb,mysql,redis,firebase,supabase,pytorch,git,github" />
-</p>
-
----
-
 ### Tech Stack
 
 **Frontend**
