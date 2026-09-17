@@ -65,8 +65,8 @@ I'm a Software Engineering graduate (BS, CGPA 3.94/4.00, Bronze Medalist, Class 
 | [**CallsFlow**](https://callsflow.io) *(client product — closed source)* | Browser-based WebRTC calling platform processing 1,000+ inbound calls/month across 50 U.S. states, with sub-200ms agent-presence updates via Redis + Socket.IO. | React, Node.js, Redis, WebRTC |
 | [**EstimatorX360**](https://github.com/RayyanRS6/EstimatorX360) · [live demo](https://estimator.bridgelandbuilders.com/embed) | No-code price estimator and form builder for GoHighLevel, with an admin dashboard, Firestore backend, and a billing kill switch for pausing client embeds. | Node.js, Express, Firestore |
 | [**trove-wardrobe**](https://github.com/RayyanRS6/trove-wardrobe) | Mobile-first wardrobe organizer on Cloudflare Workers, with D1 for data and encrypted Backblaze B2 storage for photos. | Next.js, Cloudflare Workers, D1 |
-| [**Croptivize**](https://github.com/RayyanRS6/Croptivize) · [live demo](https://growcroptivize.vercel.app/) | Full-stack crop disease detection platform — a PyTorch/ResNet leaf classifier at 97% accuracy behind a Flask API, plus a React marketplace and admin panel. | React, Flask, PyTorch, MongoDB |
-| [**Bioscout Islamabad**](https://github.com/RayyanRS6/Bioscout-Islamabad) | Community biodiversity platform built for a 200+ team hackathon — a RAG Q&A system over a local knowledge base (90% response relevance) plus computer-vision species ID (~92% accuracy). | Streamlit, Computer Vision, RAG |
+| [**Croptivize**](https://github.com/RayyanRS6/Croptivize) · [live demo](https://growcroptivize.vercel.app/) | Full-stack crop disease detection platform, a PyTorch/ResNet leaf classifier at 97% accuracy behind a Flask API, plus a React marketplace and admin panel. | React, Flask, PyTorch, MongoDB |
+| [**Bioscout Islamabad**](https://github.com/RayyanRS6/Bioscout-Islamabad) | Community biodiversity platform built for a 200+ team hackathon. A RAG Q&A system over a local knowledge base (90% response relevance) plus computer-vision species ID (~92% accuracy). | Streamlit, Computer Vision, RAG |
 
 ---
 
