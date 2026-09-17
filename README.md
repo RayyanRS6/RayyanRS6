@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Muhammad Rayyan 👋</h1>
-<h3 align="center">Full-stack Software Engineer — Real-time Systems &amp; Applied AI</h3>
+<h3 align="center">Full-stack Software Engineer - Real-time Systems &amp; Applied AI</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rayyansalman"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
