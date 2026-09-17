@@ -1,0 +1,79 @@
+<h1 align="center">Hi, I'm Muhammad Rayyan 👋</h1>
+<h3 align="center">Full-stack Software Engineer — Real-time Systems &amp; Applied AI</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rayyansalman"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:meerurayyan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://x.com/meerurayyan"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" /></a>
+</p>
+
+---
+
+### About
+
+I'm a Software Engineering graduate (BS, CGPA 3.94/4.00, Bronze Medalist, Class of 2025) from Capital University of Science & Technology. I currently build CRM automations, websites, and funnels as a Web Developer & Marketing Automation Associate at **Growth Guild**, and spend my own time on real-time and applied-AI side projects.
+
+- 🔭 Currently maintaining 150+ GoHighLevel CRM workflows and client websites across 15+ accounts at Growth Guild
+- 🧠 Interested in real-time systems (WebRTC, WebSockets), computer vision, and RAG pipelines
+- 🌱 Built a WebRTC calling platform processing 1,000+ inbound calls/month with sub-200ms agent-presence updates
+- 📫 Reach me at meerurayyan@gmail.com
+
+---
+
+### Tech Stack
+
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+**Backend & Real-time**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white)
+
+**AI / ML**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+
+**Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+
+**Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+**Automation & CRM:** GoHighLevel, Zapier, Webflow, Framer
+
+---
+
+### Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**Croptivize**](https://github.com/RayyanRS6/Croptivize) · [live demo](https://growcroptivize.vercel.app/) | Full-stack crop disease detection platform — a PyTorch/ResNet leaf classifier at 97% accuracy behind a Flask API, plus a React marketplace and admin panel. | React, Flask, PyTorch, MongoDB |
+| [**Bioscout Islamabad**](https://github.com/RayyanRS6/Bioscout-Islamabad) | Community biodiversity platform built for a 200+ team hackathon — a RAG Q&A system over a local knowledge base (90% response relevance) plus computer-vision species ID (~92% accuracy). | Streamlit, Computer Vision, RAG |
+| [**EstimatorX360**](https://github.com/RayyanRS6/EstimatorX360) | No-code price estimator and form builder for GoHighLevel, with an admin dashboard, Firestore backend, and a billing kill switch for pausing client embeds. | Node.js, Express, Firestore |
+| [**orderly**](https://github.com/RayyanRS6/orderly) | Multi-business WhatsApp ordering platform with model-independent AI orchestration. | TypeScript, Hono, Supabase |
+| [**trove-wardrobe**](https://github.com/RayyanRS6/trove-wardrobe) | Mobile-first wardrobe organizer on Cloudflare Workers, with D1 for data and encrypted Backblaze B2 storage for photos. | Next.js, Cloudflare Workers, D1 |
+| [**CallsFlow**](https://callsflow.io) *(client product — closed source)* | Browser-based WebRTC calling platform processing 1,000+ inbound calls/month across 50 U.S. states, with sub-200ms agent-presence updates via Redis + Socket.IO. | React, Node.js, Redis, WebRTC |
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RayyanRS6&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayyanRS6&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
