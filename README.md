@@ -15,8 +15,8 @@
 
 I'm a Web Developer &amp; Marketing Automation Associate at **Growth Guild**, where I maintain 150+ GoHighLevel CRM workflows and client websites across 15+ accounts. Outside client work I build real-time and applied-AI products, from a WebRTC calling platform that handles 1,000+ inbound calls a month to a server-authoritative multiplayer game engine.
 
-- ⚡ **Real-time systems:** WebRTC calling with sub-200ms agent presence (Redis + Socket.IO), authoritative WebSocket netcode with client prediction and lag compensation
-- 🧠 **Applied AI:** RAG over local knowledge bases, PyTorch/ResNet image classification, model-independent LLM orchestration (OpenAI, Anthropic, Gemini)
+- ⚡ **Real-time systems:** WebRTC calling with sub-200ms agent presence (Redis + Socket.IO), authoritative WebSocket netcode with client prediction and reconciliation
+- 🧠 **Applied AI:** LLM agents with fairness evals, PyTorch/ResNet image classification, model-independent LLM orchestration (OpenAI, Anthropic, Gemini)
 - 🏗️ **Platforms:** multi-tenant SaaS on Cloudflare Workers and Supabase, Postgres row-level security, CRM automation at scale
 - 🔭 **Currently building:** **Recruiting OS** with Identified Talent Solutions, an AI-assisted recruiting platform that works as the recruiting department for companies too small to have one
 - 🏫 **Also in progress:** [Edventure](https://github.com/RayyanRS6/Edventure), a school management platform where one Fastify API serves a Next.js admin site and an Expo mobile app, in English and Urdu
@@ -28,13 +28,13 @@ I'm a Web Developer &amp; Marketing Automation Associate at **Growth Guild**, wh
 | Project | What it does | Stack |
 |---|---|---|
 | **Recruiting OS** *(Identified Talent Solutions, private repo)* | AI-assisted recruiting platform for small companies: the software runs the repetitive hiring work, AI agents analyze, coordinate and recommend, and the customer makes the key decisions with a real recruiter one click away. | TypeScript, Next.js, Hono, Drizzle, PostgreSQL |
-| [**orderly**](https://github.com/RayyanRS6/orderly) · [live demo](https://orderly.meerurayyan.workers.dev) | Multi-business WhatsApp ordering platform: customers order on WhatsApp, staff run menus and orders from a dashboard, and each business chooses its own AI model. | TypeScript, Hono, Supabase, Cloudflare Workers |
+| [**Orderly**](https://github.com/RayyanRS6/orderly) · [live demo](https://orderly.meerurayyan.workers.dev) | Multi-business WhatsApp ordering platform, in use at Fries &amp; Buns: customers order on WhatsApp, staff run menus and orders from a dashboard, and each business chooses its own AI model. | TypeScript, Hono, Supabase, Cloudflare Workers |
 | [**CallsFlow**](https://callsflow.io) *(client product, closed source)* | Browser-based WebRTC calling platform processing 1,000+ inbound calls/month across 50 U.S. states, with sub-200ms agent-presence updates via Redis + Socket.IO. | React, Node.js, Redis, WebRTC |
-| [**BallGame**](https://github.com/RayyanRS6/BallGame) · [play it](https://ballgamebeta.vercel.app) | HaxBall-style multiplayer football on a custom deterministic physics engine, with server-authoritative netcode, client prediction, lag compensation and bot AI. | TypeScript, WebSockets, Canvas |
+| [**BallGame**](https://github.com/RayyanRS6/BallGame) · [play it](https://ballgamebeta.vercel.app) | HaxBall-style multiplayer football on a custom deterministic physics engine, with server-authoritative netcode, client prediction, snapshot interpolation and bot AI. | TypeScript, WebSockets, Canvas |
 | [**EstimatorX360**](https://github.com/RayyanRS6/EstimatorX360) · [live demo](https://estimator.bridgelandbuilders.com/embed) | No-code price estimator and form builder for GoHighLevel, with an admin dashboard, Firestore backend, and a billing kill switch for pausing client embeds. | Node.js, Express, Firestore |
 | [**Croptivize**](https://github.com/RayyanRS6/Croptivize) · [live demo](https://growcroptivize.vercel.app/) | Crop disease detection platform: a PyTorch/ResNet leaf classifier at 97% accuracy behind a Flask API, plus a React marketplace and admin panel. | React, Flask, PyTorch, MongoDB |
 | [**TroveWardrobe**](https://github.com/RayyanRS6/TroveWardrobe) · [live demo](https://trove.meerub.workers.dev) | Private, mobile-first wardrobe organizer on Cloudflare Workers, with D1 for data, Backblaze B2 photo storage, and offline support. | Next.js, Cloudflare Workers, D1 |
-| [**Bioscout Islamabad**](https://github.com/RayyanRS6/BioscoutIslamabad-Hackathon) | Community biodiversity platform built for a 200+ team hackathon. A RAG Q&amp;A system over a local knowledge base (90% response relevance) plus computer-vision species ID (~92% accuracy). | Python, Streamlit, Transformers |
+| [**Bioscout Islamabad**](https://github.com/RayyanRS6/BioscoutIslamabad-Hackathon) | Hackathon project: a Streamlit app for logging species sightings, with Q&amp;A over a local biodiversity knowledge base and photo-based species ID from a pretrained vision model. | Python, Streamlit, Transformers |
 
 **More:** [PaperFlight](https://github.com/RayyanRS6/PaperFlight) (3D paper-plane flight simulator in Three.js) · [shotframe](https://github.com/RayyanRS6/shotframe) (screenshot mockup editor that runs fully in the browser) · [BridgelandBuilders](https://github.com/RayyanRS6/BridgelandBuilders) (company website with SSR and automated sitemaps)
 
@@ -46,15 +46,10 @@ I'm a Web Developer &amp; Marketing Automation Associate at **Growth Guild**, wh
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -79,7 +74,6 @@ I'm a Web Developer &amp; Marketing Automation Associate at **Growth Guild**, wh
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
